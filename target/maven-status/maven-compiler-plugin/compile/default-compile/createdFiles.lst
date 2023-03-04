@@ -1,0 +1,11 @@
+com\simpleapp\Repository\TodoRepository.class
+com\simpleapp\SpringbootTestAppApplication.class
+com\simpleapp\payload\response\MessageResponse$MessageResponseBuilder.class
+com\simpleapp\Model\Todo.class
+com\simpleapp\Controller\TodoController.class
+com\simpleapp\payload\request\todoDto.class
+com\simpleapp\payload\response\MessageResponse.class
+com\simpleapp\Service\TodoService.class
+com\simpleapp\ServiceImpl\TodoServiceImpl.class
+com\simpleapp\Model\Todo$TodoBuilder.class
+com\simpleapp\payload\request\todoDto$todoDtoBuilder.class
